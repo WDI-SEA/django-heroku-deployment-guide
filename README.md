@@ -12,12 +12,14 @@ By the end of this, developers should be able to:
 - Setup PostgreSQL Database on Heroku.
 - Create Procfile for deployment.
 
-<!-- ## Deployment Video Recording
 
-In addition to the steps below, feel free to utilize this recorded walk-through of deploying the `django-auth-template`.
+## Deployment Video Recording
 
-[Django Auth Template Deployment Video Recording](https://git.generalassemb.ly/ga-wdi-boston/django-heroku-deployment-guide/pull/12/commits/3bfc3cde882fa40779b3a7dc1c4889dd3b0e0ffb)
-- Passcode: `@m9R009E` -->
+In addition to the steps below, feel free to utilize this recorded walk-through of deploying.
+
+- Recording: https://generalassembly.zoom.us/rec/share/oecPd_VF7Xo4N-1PdiCt2JI7oFeH6dt5IYb3lXZTeH39LY6koFXgeBm2ExYfEpjA.IU9NkhvOxv5kYv8W
+
+- Passcode: @m9R009E
 
 ## Deploying to Heroku
 
